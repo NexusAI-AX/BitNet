@@ -1,3 +1,4 @@
+# end-to-end 벤치마크 스크립트
 import os
 import sys
 import logging

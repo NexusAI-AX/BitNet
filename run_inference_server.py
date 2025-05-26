@@ -1,3 +1,4 @@
+# HTTP 서버 형태로 모델을 실행
 import os
 import sys
 import signal

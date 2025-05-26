@@ -1,3 +1,4 @@
+# 가중치 재배열/압축 유틸리티
 import torch
 import numpy as np
 

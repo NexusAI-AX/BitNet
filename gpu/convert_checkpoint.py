@@ -1,3 +1,4 @@
+# 체크포인트를 INT2/FP16 형식으로 변환
 import json
 import os
 import re

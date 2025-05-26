@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# HuggingFace 모델을 gguf 형식으로 변환
+# HuggingFace 모델을 gguf 형식으로 변환
 
 from __future__ import annotations
 

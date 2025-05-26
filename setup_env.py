@@ -1,3 +1,4 @@
+# 필요한 모델 파일을 다운로드하여 환경을 설정
 import subprocess
 import signal
 import sys

@@ -1,3 +1,4 @@
+# 또 다른 커널 코드 자동 생성
 import argparse
 import os
 from configparser import ConfigParser

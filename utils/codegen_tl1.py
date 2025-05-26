@@ -1,3 +1,4 @@
+# low-level 커널 코드를 자동 생성
 import argparse
 import os
 from configparser import ConfigParser

@@ -1,3 +1,4 @@
+# 터미널에서 GPU 모델을 실행해 텍스트를 생성
 # Copyright (c) Facebook, Inc. and its affiliates. All rights reserved.
 #
 # This source code is licensed under the BSD license found in the
