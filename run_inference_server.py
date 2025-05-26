@@ -5,6 +5,7 @@ import platform
 import argparse
 import subprocess
 
+# 시스템 명령어를 실행하고 성공 여부를 확인합니다.
 def run_command(command, shell=False):
     """Run a system command and ensure it succeeds."""
     try:
@@ -12,7 +13,7 @@ def run_command(command, shell=False):
     except subprocess.CalledProcessError as e:
         print(f"Error occurred while running command: {e}")
         sys.exit(1)
-
+# 주어진 옵션으로 추론 서버를 실행합니다.
 def run_server():
     build_dir = "build"
     if platform.system() == "Windows":
@@ -43,6 +44,7 @@ def run_server():
     print(f"Starting server on {args.host}:{args.port}")
     run_command(command)
 
+# Ctrl+C 입력 시 서버를 종료합니다.
 def signal_handler(sig, frame):
     print("Ctrl+C pressed, shutting down server...")
     sys.exit(0)
