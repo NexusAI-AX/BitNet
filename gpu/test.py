@@ -1,3 +1,4 @@
+# 커스텀 커널 성능 테스트 스크립트
 import torch
 from torch.utils import benchmark
 from torch import nn

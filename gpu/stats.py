@@ -1,3 +1,4 @@
+# 속도 측정을 위한 간단한 통계 클래스
 # Copyright (c) Facebook, Inc. and its affiliates. All rights reserved.
 #
 # This source code is licensed under the BSD license found in the

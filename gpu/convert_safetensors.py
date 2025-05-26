@@ -1,3 +1,4 @@
+# safetensors 체크포인트를 변환
 import re
 import torch
 from pathlib import Path

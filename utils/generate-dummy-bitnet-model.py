@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# 테스트용 더미 모델 생성 스크립트
+# 테스트용 더미 모델 생성 스크립트
 
 # dummy model generation script based on convert-hf-to-gguf-bitnet.py
 from __future__ import annotations
