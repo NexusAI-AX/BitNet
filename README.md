@@ -1,4 +1,6 @@
 # bitnet.cpp
+
+한국어 요약은 [README_ko.md](README_ko.md)에서 확인하세요.
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![version](https://img.shields.io/badge/version-1.0-blue)
 
